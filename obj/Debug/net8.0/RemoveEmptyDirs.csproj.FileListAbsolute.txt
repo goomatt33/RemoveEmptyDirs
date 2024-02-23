@@ -1,0 +1,14 @@
+C:\Users\gooma\source\repos\RemoveEmptyDirs\RemoveEmptyDirs\bin\Debug\net8.0\RemoveEmptyDirs.exe
+C:\Users\gooma\source\repos\RemoveEmptyDirs\RemoveEmptyDirs\bin\Debug\net8.0\RemoveEmptyDirs.deps.json
+C:\Users\gooma\source\repos\RemoveEmptyDirs\RemoveEmptyDirs\bin\Debug\net8.0\RemoveEmptyDirs.runtimeconfig.json
+C:\Users\gooma\source\repos\RemoveEmptyDirs\RemoveEmptyDirs\bin\Debug\net8.0\RemoveEmptyDirs.dll
+C:\Users\gooma\source\repos\RemoveEmptyDirs\RemoveEmptyDirs\bin\Debug\net8.0\RemoveEmptyDirs.pdb
+C:\Users\gooma\source\repos\RemoveEmptyDirs\RemoveEmptyDirs\obj\Debug\net8.0\RemoveEmptyDirs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gooma\source\repos\RemoveEmptyDirs\RemoveEmptyDirs\obj\Debug\net8.0\RemoveEmptyDirs.AssemblyInfoInputs.cache
+C:\Users\gooma\source\repos\RemoveEmptyDirs\RemoveEmptyDirs\obj\Debug\net8.0\RemoveEmptyDirs.AssemblyInfo.cs
+C:\Users\gooma\source\repos\RemoveEmptyDirs\RemoveEmptyDirs\obj\Debug\net8.0\RemoveEmptyDirs.csproj.CoreCompileInputs.cache
+C:\Users\gooma\source\repos\RemoveEmptyDirs\RemoveEmptyDirs\obj\Debug\net8.0\RemoveEmptyDirs.dll
+C:\Users\gooma\source\repos\RemoveEmptyDirs\RemoveEmptyDirs\obj\Debug\net8.0\refint\RemoveEmptyDirs.dll
+C:\Users\gooma\source\repos\RemoveEmptyDirs\RemoveEmptyDirs\obj\Debug\net8.0\RemoveEmptyDirs.pdb
+C:\Users\gooma\source\repos\RemoveEmptyDirs\RemoveEmptyDirs\obj\Debug\net8.0\RemoveEmptyDirs.genruntimeconfig.cache
+C:\Users\gooma\source\repos\RemoveEmptyDirs\RemoveEmptyDirs\obj\Debug\net8.0\ref\RemoveEmptyDirs.dll
